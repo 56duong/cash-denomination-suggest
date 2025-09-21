@@ -1,0 +1,31 @@
+{
+  "name": "cash-denomination-suggest",
+  "version": "2.0.0",
+  "description": "Cash denomination suggestion for payment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cash",
+    "denomination",
+    "suggest",
+    "payment",
+    "currency",
+    "cash-suggest",
+    "denomination-suggest",
+    "cash-denomination",
+    "cash-denomination-suggest"
+  ],
+  "author": "56duong",
+  "license": "MIT",
+  "homepage": "https://github.com/56duong/cash-denomination-suggest",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/56duong/cash-denomination-suggest"
+  },
+  "bugs": {
+    "url": "https://github.com/56duong/cash-denomination-suggest/issues"
+  }
+}
