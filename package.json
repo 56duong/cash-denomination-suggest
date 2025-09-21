@@ -12,6 +12,7 @@
     "denomination",
     "suggest",
     "payment",
+    "payment-denomination",
     "currency",
     "cash-suggest",
     "denomination-suggest",
