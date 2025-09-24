@@ -18,7 +18,7 @@ const value = 654000;
 
 try {
   const results = cashDenominationSuggest(value, DEMONSTRATIONS);
-  console.log('Suggested denominations:', result);
+  console.log('Suggested denominations:', result); // [ 654000, 655000, 660000, 700000, 800000, 1000000 ]
 } catch (err) {
   console.error(err);
 }
